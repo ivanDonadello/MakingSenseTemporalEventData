@@ -19,5 +19,4 @@ Response[Round Grinding - Machine 12, Final Inspection Q.C.] | | |
 Not Succession[Turning & Milling - Machine 6, Turning & Milling - Machine 9] | | |
 Not Chain Succession[Round Grinding - Machine 2, Laser Marking - Machine 7] | | |
 Not Chain Succession[Final Inspection Q.C., Round Grinding - Q.C.] | | |
-Alternate Precedence[Turn & Mill. & Screw Assem - Machine 10, Milling - Machine 14] | | |
 Not Chain Succession[Turning Q.C., Final Inspection Q.C.]
