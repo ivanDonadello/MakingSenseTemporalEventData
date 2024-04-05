@@ -1,5 +1,3 @@
-# MakingSenseTemporalEventData
-
 # Supplementary material for "Making Sense of Temporal Event Data: a Framework for Comparing Techniques for the Discovery of Discriminative Process Patterns"
 
 Submitted at CAiSE 2024.
