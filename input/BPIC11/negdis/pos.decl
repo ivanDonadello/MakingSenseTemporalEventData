@@ -10,17 +10,6 @@ Response[buik        - primaire stageringsoperati, natrium vlamfotometrisch] | |
 Not Succession[e.c.g.      - elektrocardiografie, cito histologisch onderzoek] | | |
 Responded Existence[bicarbonaat, leukocyten tellen elektronisch] | | |
 Alternate Precedence[1e consult poliklinisch, verlosk.-gynaec.  aanv.kaart kosten-out] | | |
-!Choice[mri bijnier, onderzoek via percutane veneuze katheter] | | |
-!Choice[mri bijnier, cytologisch onderzoek - endocervix -] | | |
-!Choice[mri bijnier, echogeleide als ass. bij punctie abdomen] | | |
-!Choice[mri bijnier, doxorubicine liposomal --caelyx--] | | |
-!Choice[mri bijnier, ro-gel. als ass. bij punctie - biopsie l] | | |
-!Choice[mri bijnier, lymf.syst.  - regionale lymfeklierdissec] | | |
-!Choice[mri bijnier, doorlichting zonder opname buik] | | |
-!Choice[mri bijnier, niet declarabele dagverpleging-bv klin.p] | | |
-!Choice[mri bijnier, oesofagografie - oraal] | | |
-!Choice[mri bijnier, rontgenonderzoek onvolledig] | | |
-!Choice[mri bijnier, echo bekken inhoud muv anatomiecode 83 t] | | |
 Alternate Precedence[1e consult poliklinisch, troponine-t mbv elisa] | | |
 Alternate Precedence[ureum, behandeltijd - eenheid t2 - megavolt] | | |
 Responded Existence[ct thorax, natrium vlamfotometrisch] | | |
@@ -84,4 +73,4 @@ Responded Existence[fosfaat, ligdagen - alle spec.beh.kinderg.-reval.] | | |
 Not Succession[1e consult poliklinisch, anti-hav ig of igg-elisa of ria- in een] | | |
 Not Succession[nucleair onderzoek van elders, coupe ter inzage] | | |
 Alternate Response[tumor - petscan totale lichaam, creatinine] | | |
-Alternate Response[vulva       - biopsie-punctie-cytologie, aanname laboratoriumonderzoek] | | |]]
+Alternate Response[vulva       - biopsie-punctie-cytologie, aanname laboratoriumonderzoek] | | |
