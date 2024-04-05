@@ -1,0 +1,20 @@
+activity ER Triage
+activity ER Registration
+activity ER Sepsis Triage
+activity Leucocytes
+activity CRP
+activity LacticAcid
+activity IV Antibiotics
+activity Admission NC
+activity IV Liquid
+activity Release A
+activity Return ER
+activity Admission IC
+activity Release B
+activity Release C
+activity Release D
+activity Release E
+!Alternate Response[LacticAcid, ER Sepsis Triage] | | |
+Alternate Precedence[Admission NC, ER Registration] | | |
+Succession[ER Registration, IV Liquid] | | |
+Not Chain Succession[CRP, IV Antibiotics] | | |

@@ -1,0 +1,27 @@
+Not Co-Existence[other, Flat Grinding - Machine 11] | | |
+!Exactly2[Turning & Milling - Machine 4] | |
+Not Chain Succession[Flat Grinding - Machine 11, Final Inspection Q.C.] | | |
+!Exactly1[Turning & Milling - Machine 10] | |
+Not Succession[Turning - Machine 9, Laser Marking - Machine 7] | | |
+Not Chain Succession[Lapping - Machine 1, Flat Grinding - Machine 11] | | |
+!Exactly3[Lapping - Machine 1] | |
+Not Co-Existence[Round Grinding - Machine 2, Turning & Milling - Machine 5] | | |
+!Exactly1[Turning & Milling - Machine 6] | |
+!Exactly2[Turning & Milling - Machine 6] | |
+Not Succession[Turning - Machine 8, Final Inspection Q.C.] | | |
+Not Chain Succession[Final Inspection Q.C., other] | | |
+Not Co-Existence[other, Round Grinding - Manual] | | |
+Not Chain Succession[Turning Q.C., Turning & Milling - Machine 8] | | |
+Not Chain Succession[Round Grinding - Manual, Turning & Milling Q.C.] | | |
+Not Chain Succession[other, Laser Marking - Machine 7] | | |
+Not Succession[Final Inspection Q.C., Milling - Machine 16] | | |
+Not Succession[Round Grinding - Machine 2, Round Grinding - Machine 12] | | |
+Not Chain Succession[Round Grinding - Manual, Laser Marking - Machine 7] | | |
+Not Chain Succession[Round Grinding - Manual, Round Grinding - Machine 12] | | |
+Not Chain Succession[Round Grinding - Q.C., Laser Marking - Machine 7] | | |
+Not Chain Succession[Laser Marking - Machine 7, Round Grinding - Q.C.] | | |
+Not Chain Succession[Round Grinding - Machine 3, Packing] | | |
+Precedence[Round Grinding - Machine 12, Lapping - Machine 1] | | |
+Not Chain Succession[Flat Grinding - Machine 11, Round Grinding - Manual] | | |
+Not Chain Succession[Turning Q.C., Packing] | | |
+Precedence[Milling - Machine 14, Final Inspection Q.C.] | | |

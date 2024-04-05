@@ -1,0 +1,87 @@
+Not Succession[verlosk.-gynaec.   jaarkaart kosten-out, cea - tumormarker mbv meia] | | |
+Not Chain Succession[echografie  - genitalia interna, immunopathologisch onderzoek] | | |
+Not Succession[echografie  - genitalia interna, klinische kaart - anesthesie] | | |
+Not Succession[mri bekken, ct thorax] | | |
+Not Chain Succession[methemoglobine - sulfhemoglobine elk, creatinine - spoed] | | |
+Not Succession[immunopathologisch onderzoek, anesthesie  - bij behandeling met radium] | | |
+Not Co-Existence[blaas       - uretrocystoscopie nno, e.c.g.      - elektrocardiografie] | | |
+Not Succession[buikoverzicht, e.c.g.      - elektrocardiografie] | | |
+Response[buik        - primaire stageringsoperati, natrium vlamfotometrisch] | | |
+Not Succession[e.c.g.      - elektrocardiografie, cito histologisch onderzoek] | | |
+Responded Existence[bicarbonaat, leukocyten tellen elektronisch] | | |
+Alternate Precedence[1e consult poliklinisch, verlosk.-gynaec.  aanv.kaart kosten-out] | | |
+!Choice[mri bijnier, onderzoek via percutane veneuze katheter] | | |
+!Choice[mri bijnier, cytologisch onderzoek - endocervix -] | | |
+!Choice[mri bijnier, echogeleide als ass. bij punctie abdomen] | | |
+!Choice[mri bijnier, doxorubicine liposomal --caelyx--] | | |
+!Choice[mri bijnier, ro-gel. als ass. bij punctie - biopsie l] | | |
+!Choice[mri bijnier, lymf.syst.  - regionale lymfeklierdissec] | | |
+!Choice[mri bijnier, doorlichting zonder opname buik] | | |
+!Choice[mri bijnier, niet declarabele dagverpleging-bv klin.p] | | |
+!Choice[mri bijnier, oesofagografie - oraal] | | |
+!Choice[mri bijnier, rontgenonderzoek onvolledig] | | |
+!Choice[mri bijnier, echo bekken inhoud muv anatomiecode 83 t] | | |
+Alternate Precedence[1e consult poliklinisch, troponine-t mbv elisa] | | |
+Alternate Precedence[ureum, behandeltijd - eenheid t2 - megavolt] | | |
+Responded Existence[ct thorax, natrium vlamfotometrisch] | | |
+Responded Existence[paclitaxel, bloedgroep abo en rhesusfactor] | | |
+Responded Existence[melkzuur dehydrogenase - spoed, albumine - spoed] | | |
+Co-Existence[creatine fosfokinase isoenzym ckmb, troponine-t mbv elisa] | | |
+Alternate Response[ovarium     - debulking ovariumcarcinoom, kalium potentiometrisch] | | |
+Chain Response[ovarium     - debulking ovariumcarcinoom, histologisch onderzoek - grote resectiep] | | |
+Not Chain Succession[administratief tarief       - eerste pol, echo nieren-urinewegen] | | |
+Not Succession[verlosk.-gynaec.  aanv.kaart kosten-out, 1e consult      bezoek] | | |
+Responded Existence[verlosk.-gynaec.   jaarkaart kosten-out, administratief tarief       - eerste pol] | | |
+Alternate Response[verlosk.-gynaec. korte kaart kosten-out, administratief tarief       - eerste pol] | | |
+Responded Existence[calcium, alkalische fosfatase -kinetisch-] | | |
+Responded Existence[calcium, gammaglutamyltranspeptidase] | | |
+Precedence[squamous cell carcinoma mbv eia, mri bekken] | | |
+Not Succession[ct abdomen, crp c-reactief proteine - spoed] | | |
+Responded Existence[behandeltijd - eenheid t4 - megavolt, kruisproef volledig -drie methoden-] | | |
+Alternate Response[blaas       - cystoscopie, sgot - asat kinetisch] | | |
+Not Chain Succession[differentiele telling automatisch, leucocyten tellen -electronisch- spoed] | | |
+Alternate Response[magnesium  -aas - spoed, aanname laboratoriumonderzoek] | | |
+Alternate Response[uterus      - extirpatie - abdominaal me, bacteriologisch onderzoek met kweek -nie] | | |
+Responded Existence[cytologisch onderzoek - ectocervix -, 1e consult poliklinisch] | | |
+Not Co-Existence[squamous cell carcinoma mbv eia, punctie tbv cytologisch onderzoek door p] | | |
+Co-Existence[knie - m-z onderbeen, echo mamma] | | |
+Co-Existence[echo mamma, brain natriuretic peptide -bnp- mbv immu] | | |
+Alternate Response[ident. irregulaire a.s. tegen erys na po, urine onderzoek - kwalitatief] | | |
+Not Succession[bicarbonaat, hematocriet - spoed] | | |
+Responded Existence[histologisch onderzoek - biopten nno, aanname laboratoriumonderzoek] | | |
+Chain Response[cytologisch onderzoek - pleuravocht -, aanname laboratoriumonderzoek] | | |
+Not Succession[simulator - gebruik voor aanvang megavol, coupe ter inzage] | | |
+Not Succession[brachytherapie - interstitieel - intensi, behandeltijd - eenheid t3 - megavolt] | | |
+Not Succession[verlosk.-gynaec.   jaarkaart kosten-out, echografie  - genitalia interna] | | |
+Alternate Precedence[ureum, patient niet verschenen radiologie] | | |
+Not Co-Existence[calcium - spoed, ovarium     - redebulking ovarium carcin] | | |
+Not Chain Succession[cytologisch onderzoek - vagina -, aanname laboratoriumonderzoek] | | |
+Alternate Response[uterus      - extirpatie abdominaal radi, urine onderzoek - kwalitatief] | | |
+Not Succession[vulva       - rad.vulvectomie - opp.en d, hemoglobine foto-elektrisch] | | |
+Not Succession[e.c.g.      - elektrocardiografie, echo nieren-urinewegen] | | |
+Responded Existence[sediment, alkalische fosfatase -kinetisch-] | | |
+Not Chain Succession[ordertarief, teletherapie - megavolt fotonen bestrali] | | |
+Responded Existence[dagverpleging - alle spec.beh.kind.-rev., ligdagen - alle spec.beh.kinderg.-reval.] | | |
+Responded Existence[cito histologisch onderzoek, hemoglobine foto-elektrisch] | | |
+Not Chain Succession[echografie  - genitalia interna, coupe ter inzage] | | |
+Responded Existence[vrw.gesl.org- adnex-extirpatie dmv lapar, vervolgconsult poliklinisch] | | |
+Not Co-Existence[e.c.g.      - elektrocardiografie, buik        - stag.lap-tumorred.-omentec] | | |
+Not Chain Succession[administratief tarief       - eerste pol, e.c.g.      - elektrocardiografie] | | |
+Responded Existence[thorax - op zaal, vervolgconsult poliklinisch] | | |
+Not Succession[vulva       - radicale vulvect. znd ingu, aanname laboratoriumonderzoek] | | |
+Not Succession[echo abdomen, glucose] | | |
+Not Succession[international normalised ratio mbv tromb, histologisch onderzoek - grote resectiep] | | |
+Not Succession[1e consult      bezoek, wervelkolom - lumbaal] | | |
+Not Chain Succession[e.c.g.      - elektrocardiografie, echografie  - genitalia interna] | | |
+Not Succession[echo abdomen, ca-125 mbv meia] | | |
+Responded Existence[190101 bovenreg.toesl.  a101, ordertarief] | | |
+Chain Response[blaas       - cystoscopie met biopsie, vagina      - toucher onder anesthesie] | | |
+Responded Existence[simulator - gebruik voor aanvang megavol, 190021 klinische opname a002] | | |
+Not Co-Existence[skelet - scintigrafie totale lichaam, immunopathologisch onderzoek] | | |
+Alternate Precedence[telefonisch consult, peritoneum  - omentectomie] | | |
+Not Chain Succession[cea - tumormarker mbv meia, ordertarief] | | |
+Responded Existence[fosfaat, ligdagen - alle spec.beh.kinderg.-reval.] | | |
+Not Succession[1e consult poliklinisch, anti-hav ig of igg-elisa of ria- in een] | | |
+Not Succession[nucleair onderzoek van elders, coupe ter inzage] | | |
+Alternate Response[tumor - petscan totale lichaam, creatinine] | | |
+Alternate Response[vulva       - biopsie-punctie-cytologie, aanname laboratoriumonderzoek] | | |]]

@@ -1,0 +1,12 @@
+Absence2[Architect Review] | |
+Responded Existence[Round Ends, Godkend ansøgning] | | |
+Chain Precedence[ansøger informeret, Indledende afvisning] | | |
+Succession[Modtag slut rapport, Change Phase to End Report] | | |
+Absence[Account number changed] | |
+Not Succession[Første udbetaling, Round approved] | | |
+!Exactly3[Review] | |
+Not Succession[Godkend ansøgning, Udfoer bortfald] | | |
+Not Succession[Change phase to Forberedelse, Informer ansøger om at best ser på sagen] | | |
+Not Chain Succession[Change phase to Forberedelse, Round approved] | | |
+!Exactly2[Fill out Application] | | |
+Not Chain Succession[Lawyer Review, Godkend ansøgning] | | |

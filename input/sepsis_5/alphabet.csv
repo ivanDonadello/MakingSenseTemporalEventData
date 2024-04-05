@@ -1,0 +1,16 @@
+activity Admission NC
+activity Release A
+activity Release D
+activity Release E
+activity LacticAcid
+activity Release C
+activity ER Registration
+activity CRP
+activity IV Antibiotics
+activity Return ER
+activity Release B
+activity ER Sepsis Triage
+activity Leucocytes
+activity IV Liquid
+activity Admission IC
+activity ER Triage

@@ -1,0 +1,9 @@
+Absence[Informer ansøger om at best ser pa sagen] | |
+Choice[Fill out Application, Informer ansøger om at best ser pa sagen] | | |
+Choice[Informer ansøger om at best ser pa sagen, Fill out Application] | | |
+Not Succession[Change phase to review, Informer ansøger om at best ser pa sagen] | | |
+!Existence[Informer ansøger om at best ser pa sagen] | |
+!Exactly1[Informer ansøger om at best ser pa sagen] | | 
+!Co-Existence[Informer ansøger om at best ser pa sagen, Fill out Application] | | | 
+!Succession[Fill out Application, Informer ansøger om at best ser pa sagen] | | | 
+!Responded Existence[Fill out Application, Informer ansøger om at best ser pa sagen] | | |

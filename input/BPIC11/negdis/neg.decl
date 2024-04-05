@@ -1,0 +1,79 @@
+Precedence[haemoglobine foto-electrisch - spoed, trombotest] | | |
+Not Co-Existence[verlosk.-gynaec. korte kaart kosten-out, skelet - scintigrafie totale lichaam] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, dikke darm  - appendectomie nno] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, vagina      - scopie incl.evt.vulvabiops] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, fsh enzym-immunologisch] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, pyelografie antegraad via drain] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, zwangerschapsreactie - spoed] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, klinische kaart - verloskunde en gynaeco] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, testosteron mbv radioisotopen] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, ct pancreas en milt] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, cytologisch onderzoek tbv bevolkingsonde] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, erytrocyten] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, lever       - excisie tumor of metastase] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, vulva       - vulvectomie zonder lieskli] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, wervelkolom - cervicaal] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, microscopisch onderzoek  - elektronenmic] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, buik        - second-look-oper.ovariumca] | | |
+Succession[behandeltijd - eenheid t1 - megavolt, bepaling hepatitis-be-antigeen] | | |
+Response[tsh enzym-immunologisch, bacteriologisch onderzoek met kweek -nie] | | |
+Response[cytologisch onderzoek - vagina -, aanname laboratoriumonderzoek] | | |
+Not Succession[vervolgconsult poliklinisch, verlosk.-gynaec.   jaarkaart kosten-out] | | |
+Alternate Precedence[immunopathologisch onderzoek, ligase chain reaction -lcr-] | | |
+Alternate Precedence[bloedgroep abo en rhesusfactor, verlosk.-gynaec.  aanv.kaart kosten-out] | | |
+Precedence[ligdagen - alle spec.beh.kinderg.-reval., crp c-reactief proteine - spoed] | | |
+Not Chain Succession[histologisch onderzoek - biopten nno, 190035 dagverpleging    a007] | | |
+Not Co-Existence[sediment - spoed, cefalinetijd - coagulatie] | | |
+Not Co-Existence[ca-125 mbv meia, uterus      - carc. cervix vlgs. werthei] | | |
+Succession[cde fenotypering, ident. irregulaire a.s. tegen erys na po] | | |
+Responded Existence[histologisch onderzoek - kleine resectie, glucose] | | |
+Precedence[natrium vlamfotometrisch, crp c-reactief proteine] | | |
+Not Succession[vervolgconsult poliklinisch, klinische kaart - inwendige geneeskunde] | | |
+Response[inwend.geneesk.  korte kaart kosten-out, hemoglobine foto-elektrisch] | | |
+Not Chain Succession[190035 dagverpleging    a007, dagverpleging - alle spec.beh.kind.-rev.] | | |
+Responded Existence[maag - ontledig.-scint vast-vloeib.voeds, vervolgconsult poliklinisch] | | |
+Not Co-Existence[vervolgconsult poliklinisch, interc.consult klinisch  neurologie] | | |
+Not Co-Existence[hematocriet - spoed, differentiatie leukocyten - handmatig] | | |
+Not Co-Existence[resistentiebepalingen - 5 bepalingen, cde fenotypering] | | |
+Alternate Precedence[190205 klasse 3b        a205, buik        - stageringslaparotom.-oment] | | |
+Responded Existence[protrombinetijd, 190205 klasse 3b        a205] | | |
+Not Succession[cefalinetijd - coagulatie, verlosk.-gynaec.  aanv.kaart kosten-out] | | |
+Response[melkzuur dehydrogenase - spoed, aanname laboratoriumonderzoek] | | |
+Alternate Precedence[aanname laboratoriumonderzoek, 1e consult      bezoek] | | |
+Not Succession[vervolgconsult poliklinisch, cervix      - conisatie] | | |
+Not Succession[behandeltijd - eenheid t3 - megavolt, squamous cell carcinoma mbv eia] | | |
+Response[fosfaat, albumine] | | |
+Precedence[1e consult poliklinisch, ct bovenbuik] | | |
+Not Succession[ct bovenbuik, differentiele telling automatisch] | | |
+Not Co-Existence[buikoverzicht, mri abdomen] | | |
+Response[pijnbestrijd- aanleggen patient controll, cytologisch onderzoek - ascites -] | | |
+Not Co-Existence[histologisch onderzoek - biopten nno, echo been] | | |
+Not Succession[interc.consult klinisch  anesthesie, hematocriet mbv centrifuge] | | |
+Succession[betasubunit bep. mbv. ria hcg, beademing - anesthesie - eerste dag] | | |
+Not Succession[telefonisch consult, verlosk.-gynaec. korte kaart kosten-out] | | |
+Responded Existence[hematocriet mbv centrifuge, trombocyten tellen - elektronisch] | | |
+Not Chain Succession[differentiele telling automatisch, trombocyten tellen - elektronisch] | | |
+Alternate Precedence[glucose, ca-19.9 tumormarker] | | |
+Not Chain Succession[squamous cell carcinoma mbv eia, magnesium  -aas] | | |
+Alternate Precedence[glucose, anesthesie  - bij behandeling met radium] | | |
+Not Chain Succession[squamous cell carcinoma mbv eia, ca-125 mbv meia] | | |
+Not Succession[echo nieren-urinewegen, squamous cell carcinoma mbv eia] | | |
+Not Succession[echo bovenbuik, dieet nno] | | |
+Not Succession[wervelkolom - lumbaal, administratief tarief       - eerste pol] | | |
+Response[vriescoupe, o2-saturatie] | | |
+Precedence[aanname laboratoriumonderzoek, mri abdomen] | | |
+Not Chain Succession[rhesusfactor d - centrifugeermethode - e, squamous cell carcinoma mbv eia] | | |
+Alternate Precedence[cea - tumormarker mbv meia, ovarium     - redebulking ovarium carcin] | | |
+Responded Existence[amylase, glucose] | | |
+Not Succession[mri abdomen, bezinkingssnelheid foto-elektrisch] | | |
+Not Succession[vervolgconsult poliklinisch, vitamine b12 mbv chemieluminescentie] | | |
+Not Co-Existence[cytologisch onderzoek - ectocervix -, cytologisch onderzoek - lymfeklierpuncti] | | |
+!Init[mammografie thoraxwand] | | |
+Not Co-Existence[vervolgconsult poliklinisch, vrw.gesl.org- adnex-extirpatie dmv lapar] | | |
+Not Co-Existence[immunopathologisch onderzoek, buik        - laparoscopie - diagnostisc] | | |
+!Init[cytologisch onderzoek - buiktumorpunctie] | | |
+Not Succession[ovarium     - redebulking ovarium carcin, gammaglutamyltranspeptidase] | | |
+Response[melkzuur enzymatisch, hemoglobine foto-elektrisch] | | |
+Response[echo abdomen, aanname laboratoriumonderzoek] | | |
+AlternateResponse[echo hals --waaronder schildklier--, leukocyten tellen elektronisch] | | |
+Precedence[ligdagen - alle spec.beh.kinderg.-reval., interc.consult klinisch  radiotherapie] | | |]]

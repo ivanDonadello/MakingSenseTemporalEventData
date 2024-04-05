@@ -1,0 +1,8 @@
+Not Chain Succession[Set to Pre-approved, Round Ends] | | |
+!Alternate Succession[Change phase to Abort, Round Ends] | | |
+Response[Undo payment, Første udbetaling] | | |
+Not Chain Succession[Modtag slut rapport, Første udbetaling] | | |
+Not Chain Succession[Change phase to Forberedelse, Godkend ansøgning] | | |
+Not Chain Succession[Change phase to Forberedelse, Execute pre-decision] | | |
+Not Succession[Round approved, Godkendelse - videre til bestyrelsen] | | |
+!Exactly2[Indledende afvisning] | |

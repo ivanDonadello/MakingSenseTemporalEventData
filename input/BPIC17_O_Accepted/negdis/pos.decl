@@ -1,0 +1,4 @@
+!Alternate Response[A_Pending, O_Cancelled] | | |
+!Response[O_Accepted, O_Cancelled] | | | 
+!Alternate Response[O_Accepted, O_Cancelled] | | |
+!Response[A_Pending, O_Cancelled] | | |

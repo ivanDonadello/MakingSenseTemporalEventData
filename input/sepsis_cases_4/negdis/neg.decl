@@ -1,0 +1,18 @@
+!Chain Response[ER Registration, Leucocytes] | | |
+!Chain Succession[LacticAcid, ER Triage] | | |
+!Chain Succession[IV Liquid, Leucocytes] | | |
+!Chain Succession[IV Liquid, CRP] | | |
+!Chain Succession[CRP, Admission IC] | | |
+!Chain Response[ER Registration, LacticAcid] | | |
+!Response[Leucocytes, ER Triage] | | |
+!Chain Precedence[ER Sepsis Triage, IV Liquid] | | |
+Alternate Precedence[Admission IC, Leucocytes] | | |
+!Chain Succession[IV Antibiotics, Leucocytes] | | |
+Not Succession[IV Antibiotics, ER Triage] | | |
+Precedence[Admission IC, ER Sepsis Triage] | | |
+!Chain Response[ER Triage, IV Antibiotics] | | |
+Not Succession[Admission NC, IV Antibiotics] | | |
+Not Chain Succession[IV Liquid, Admission IC] | | |
+!Chain Succession[Admission IC, Admission NC] | | |
+Choice[Admission NC, Release B] | | |
+Not Chain Succession[ER Sepsis Triage, Admission IC] | | |
