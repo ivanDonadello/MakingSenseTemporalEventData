@@ -1,0 +1,26 @@
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+    <info organisation="" module="mobuconltl-rum" revision="latest">
+    </info>
+    <configurations>
+   		<conf name="default" extends="lib" />
+   		<conf name="lib" />
+	</configurations>  
+    <dependencies defaultconf="default">
+       <!-- https://mvnrepository.com/artifact/javax.xml.bind/jaxb-api -->
+       <dependency org="javax.xml.bind" name="jaxb-api" rev="2.3.0"/>
+       <!-- https://mvnrepository.com/artifact/com.sun.xml.bind/jaxb-impl -->
+       <dependency org="com.sun.xml.bind" name="jaxb-core" rev="2.3.0"/>
+       <!-- https://mvnrepository.com/artifact/com.sun.xml.bind/jaxb-impl -->
+       <dependency org="com.sun.xml.bind" name="jaxb-impl" rev="2.3.0"/>
+       
+       
+       <dependency org="prom" name="LTL2Automaton" rev="latest" changing="true" transitive="true" />
+       <dependency org="prom" name="DeclareMinerVisualizer" rev="latest" changing="true" transitive="true" />
+       
+       
+       <dependency org="com.opencsv" name="opencsv" rev="5.7.1">
+  			<artifact name="opencsv" type="jar" />
+		</dependency>
+       
+    </dependencies>
+</ivy-module>
