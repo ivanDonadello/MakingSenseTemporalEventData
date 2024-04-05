@@ -1,21 +1,5 @@
 Precedence[haemoglobine foto-electrisch - spoed, trombotest] | | |
 Not Co-Existence[verlosk.-gynaec. korte kaart kosten-out, skelet - scintigrafie totale lichaam] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, dikke darm  - appendectomie nno] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, vagina      - scopie incl.evt.vulvabiops] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, fsh enzym-immunologisch] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, pyelografie antegraad via drain] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, zwangerschapsreactie - spoed] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, klinische kaart - verloskunde en gynaeco] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, testosteron mbv radioisotopen] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, ct pancreas en milt] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, cytologisch onderzoek tbv bevolkingsonde] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, erytrocyten] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, lever       - excisie tumor of metastase] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, vulva       - vulvectomie zonder lieskli] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, wervelkolom - cervicaal] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, microscopisch onderzoek  - elektronenmic] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, buik        - second-look-oper.ovariumca] | | |
-Succession[behandeltijd - eenheid t1 - megavolt, bepaling hepatitis-be-antigeen] | | |
 Response[tsh enzym-immunologisch, bacteriologisch onderzoek met kweek -nie] | | |
 Response[cytologisch onderzoek - vagina -, aanname laboratoriumonderzoek] | | |
 Not Succession[vervolgconsult poliklinisch, verlosk.-gynaec.   jaarkaart kosten-out] | | |
@@ -68,12 +52,12 @@ Responded Existence[amylase, glucose] | | |
 Not Succession[mri abdomen, bezinkingssnelheid foto-elektrisch] | | |
 Not Succession[vervolgconsult poliklinisch, vitamine b12 mbv chemieluminescentie] | | |
 Not Co-Existence[cytologisch onderzoek - ectocervix -, cytologisch onderzoek - lymfeklierpuncti] | | |
-!Init[mammografie thoraxwand] | | |
 Not Co-Existence[vervolgconsult poliklinisch, vrw.gesl.org- adnex-extirpatie dmv lapar] | | |
-Not Co-Existence[immunopathologisch onderzoek, buik        - laparoscopie - diagnostisc] | | |
+!Init[mammografie thoraxwand] | | |
 !Init[cytologisch onderzoek - buiktumorpunctie] | | |
+Not Co-Existence[immunopathologisch onderzoek, buik        - laparoscopie - diagnostisc] | | |
 Not Succession[ovarium     - redebulking ovarium carcin, gammaglutamyltranspeptidase] | | |
 Response[melkzuur enzymatisch, hemoglobine foto-elektrisch] | | |
 Response[echo abdomen, aanname laboratoriumonderzoek] | | |
-AlternateResponse[echo hals --waaronder schildklier--, leukocyten tellen elektronisch] | | |
-Precedence[ligdagen - alle spec.beh.kinderg.-reval., interc.consult klinisch  radiotherapie] | | |]]
+Alternate Response[echo hals --waaronder schildklier--, leukocyten tellen elektronisch] | | |
+Precedence[ligdagen - alle spec.beh.kinderg.-reval., interc.consult klinisch  radiotherapie] | | |
