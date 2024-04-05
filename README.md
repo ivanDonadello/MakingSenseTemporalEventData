@@ -1,9 +1,8 @@
-# Supplementary material for "Making Sense of Temporal Event Data: a Framework for Comparing Techniques for the Discovery of Discriminative Process Patterns"
+# Making Sense of Temporal Event Data: a Framework for Comparing Techniques for the Discovery of Discriminative Process Patterns
 
-Submitted at CAiSE 2024.
+Paper submitted at CAiSE 2024.
 
-This supplementary material contains the DECLARE models obtained from the methods described in the paper. In addition, a Java repository
-is provided for the computation of the models accuracies for each event log. The event logs are publicly available for download and they are referenced in the paper.
+This reposotory contains the DECLARE models obtained from the methods described in the paper. The Java 15 code is provided for the computation of the models accuracies for each event log. The event logs are publicly available for download and they are referenced in the paper.
 
 ## Requirements
 The Java 17 code uses the Ivy package manager to download the required libraries.
